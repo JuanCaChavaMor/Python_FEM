@@ -1,0 +1,1 @@
+I implementated the Primal-Dual Active Set Stategy to solve a Reaction-Advection-Diffusion Equation. This are the scripts that I wrote to solve the problem. I also added the pdf file with main document
